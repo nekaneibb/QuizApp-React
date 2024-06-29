@@ -2,6 +2,7 @@
   "name": "effects-adv-prj",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://nekaneibb.github.io/QuizApp-React",
   "type": "module",
   "scripts": {
     "dev": "vite",
